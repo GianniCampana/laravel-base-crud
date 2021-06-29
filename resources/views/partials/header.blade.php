@@ -1,3 +1,5 @@
+
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="{{route('home')}}">COMICS</a>
@@ -14,6 +16,9 @@
           </li> 
           <li class="nav-item">
             <a class="nav-link" href="{{route('comics.index')}}">COMICS</a>
+          </li> 
+          <li class="nav-item">
+            <a class="nav-link" href="{{route('comics.create')}}">NUOVO COMIC</a>
           </li> 
 
         </ul>

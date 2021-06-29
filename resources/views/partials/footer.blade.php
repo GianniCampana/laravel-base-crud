@@ -1,3 +1,3 @@
-<footer class="fixed-bottom text-center">
-    <h1>BELLA ZIO</h1>
+<footer class="text-center">
+   <p>FOOTER</p>
   </footer>
