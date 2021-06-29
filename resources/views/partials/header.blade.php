@@ -12,6 +12,9 @@
           <li class="nav-item">
             <a class="nav-link" href="{{route('contacts')}}">Contatti</a>
           </li> 
+          <li class="nav-item">
+            <a class="nav-link" href="{{route('comics.index')}}">COMICS</a>
+          </li> 
 
         </ul>
 
